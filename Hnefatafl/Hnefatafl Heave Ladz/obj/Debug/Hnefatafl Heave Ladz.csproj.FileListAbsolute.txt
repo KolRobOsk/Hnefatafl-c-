@@ -1,0 +1,20 @@
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.exe.config
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.exe
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.pdb
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl_Heave_Ladz.Form1.resources
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl_Heave_Ladz.Properties.Resources.resources
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.exe
+C:\Users\rober\source\repos\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.pdb
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.exe.config
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.exe
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.pdb
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.csprojAssemblyReference.cache
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl_Heave_Ladz.Form1.resources
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl_Heave_Ladz.Properties.Resources.resources
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.csproj.GenerateResource.cache
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.csproj.CoreCompileInputs.cache
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.exe
+E:\Hnefatafl Heave Ladz\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.pdb

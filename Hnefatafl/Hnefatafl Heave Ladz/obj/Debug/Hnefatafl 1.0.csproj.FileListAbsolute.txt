@@ -1,0 +1,10 @@
+F:\Hnefatafl\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.exe.config
+F:\Hnefatafl\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.exe
+F:\Hnefatafl\Hnefatafl Heave Ladz\bin\Debug\Hnefatafl Heave Ladz.pdb
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl 1.0.csprojAssemblyReference.cache
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl_Heave_Ladz.Form1.resources
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl_Heave_Ladz.Properties.Resources.resources
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl 1.0.csproj.GenerateResource.cache
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl 1.0.csproj.CoreCompileInputs.cache
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.exe
+F:\Hnefatafl\Hnefatafl Heave Ladz\obj\Debug\Hnefatafl Heave Ladz.pdb
